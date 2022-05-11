@@ -4,3 +4,23 @@
 .lobster-font {
     font-family: 'Lobster', cursive;
 }
+@media all and (min-width: 320px) {
+    .bg-image {
+        height: 60vh;
+    }
+}
+@media all and (min-width: 480px) {
+    .bg-image {
+        height: 60vh;
+    }
+}
+@media all and (min-width: 768px) {
+    .bg-image {
+        height: 70vh;
+    }
+}
+@media all and (min-width: 1024px) {
+    .bg-image {
+        height: 90vh;
+    }
+}
