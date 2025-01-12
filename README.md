@@ -1,47 +1,25 @@
-# bootstrap-boilerplate
-### Description
----
+# Barbershop Website Project
 
-Insert Description Here
+## Overview
 
----
-### Contributors 
---- 
- 
-* Contributor 1
-* Contributor 2
-* Contributor 3
+This project was created during my internship, specifically working with  barbershop client. The goal was to design and develop a responsive website to showcase their services and improve their online presence.
 
----
-### Sources / Citations
----
+## Features
 
-* Source 1
-* Source 2
-* Source 3
-* Source 4
-* Source 5
+- Fully responsive design for all devices  
+- Service and pricing sections  
+- Contact form for appointment inquiries  
+- Interactive navigation menu  
 
----
-### Licensing 
----
- 
-Licensing Information Here
+## Technologies Used
 
----
-### Contact 
----
+- HTML  
+- CSS  
+- Bootstrap  
+- Basic JavaScript  
 
-hernandezbriannnn@gmail.com
+## Installation
 
----
-### Version Files 
----
-
-* V1
-* V2
-* V3
-* V4
-* V5
-
----
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/barbershop-website.git
